@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ordersFragment"
+        android:icon="@drawable/ic_dishes"
+        android:title="@string/new_orders" />
+
+    <item
+        android:id="@+id/orderedDishFragment"
+        android:icon="@drawable/ic_bold_buy"
+        android:title="@string/ordered_dishes" />
+
+</menu>
